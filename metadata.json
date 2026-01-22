@@ -1,0 +1,5 @@
+{
+  "name": "Bean & Brew POS",
+  "description": "A high-performance Coffee Shop Point of Sale system with persistent storage, quick checkout, and smart inventory management.",
+  "requestFramePermissions": []
+}
